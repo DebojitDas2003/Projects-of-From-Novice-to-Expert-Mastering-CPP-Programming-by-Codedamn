@@ -5,4 +5,3 @@ For declaring the variables we use these keywords:
 int- for integers, like: candies, baloons
 float- for fractions, like: partition, price
 double- for fraction with double precision
-step dos:
